@@ -10,3 +10,5 @@ Our predictions are based on following:
 2) Data before world wars were not included into the prediction.
 4) Prediction is totally based on probablity of a team winning against other team
 5) Only final 16 teams were included for analysis
+6) Fifa Challenge.zip contains data
+7) FIFA+World+Cup+Challenge.ipnyb contains code
